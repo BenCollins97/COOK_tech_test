@@ -1,0 +1,10 @@
+D:\C# Test\COOK_Test\bin\Debug\COOK_Test.exe.config
+D:\C# Test\COOK_Test\bin\Debug\COOK_Test.exe
+D:\C# Test\COOK_Test\bin\Debug\COOK_Test.pdb
+D:\C# Test\COOK_Test\obj\Debug\COOK_Test.csprojAssemblyReference.cache
+D:\C# Test\COOK_Test\obj\Debug\COOK_Test.Form1.resources
+D:\C# Test\COOK_Test\obj\Debug\COOK_Test.Properties.Resources.resources
+D:\C# Test\COOK_Test\obj\Debug\COOK_Test.csproj.GenerateResource.cache
+D:\C# Test\COOK_Test\obj\Debug\COOK_Test.csproj.CoreCompileInputs.cache
+D:\C# Test\COOK_Test\obj\Debug\COOK_Test.exe
+D:\C# Test\COOK_Test\obj\Debug\COOK_Test.pdb
